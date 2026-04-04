@@ -59,4 +59,7 @@ export function App() {
 }
 
 
-render(<App />, document.getElementById('app'));
+const rootElement = document.getElementById('app');
+if (!rootElement) throw new Error('Root element with id "app" was not found.');
+
+render(<App />, rootElement);
