@@ -1,0 +1,342 @@
+{
+  "common": {
+    "header": "IV INTERNATIONAL FARABI FORUM: THE 1155th ANNIVERSARY OF AL-FARABI",
+
+    "home": "Home",
+    "map": "Map",
+    "farabi": "Farabi",
+    "menu": "Menu",
+
+    "farabi-forum": "Farabi Forum",
+    "conference-1": "Conference No. 1",
+    "conference-2": "Conference No. 2",
+    "session": "Mazhilis",
+    "discussion-areas": "Discussion Areas",
+    "speakers": "Speakers",
+    "committee": "Committee",
+    "partners": "Partners",
+
+    "more-details": "More details"
+  },
+  
+  "farabi-article": {
+    "title": "Commemorating the 1155th Anniversary of the Great Thinker",
+    "paragraphs": [
+      "The year 2025 marks the 1155th anniversary of the birth of the great scientist, philosopher, mathematician, and musician Al-Farabi. His works have had a profound influence on the development of science, education, and culture, not only in the East but across the entire world.",
+      "In honor of this significant date, an international forum is being held to discuss Al-Farabi’s works and his contributions to the development of philosophy, ethics, pedagogy, and modern science."
+    ],
+    "quote": "“Science makes a person noble and worthy of respect.”"
+  },
+  
+  "resources": {
+    "title": "ADDITIONAL RESOURCES",
+    "subtitle": "More information about Al-Farabi can be found here:",
+    "links": [
+      { "label": "Farabi Center", "href": "http://al-farabi.kaznu.ru" },
+      { "label": "Farabi Scholars", "href": "https://al-farabi.kaznu.ru/?page_id=730" },
+      { "label": "Life and Works", "href": "https://al-farabi.kaznu.ru/?page_id=911" }
+    ]
+  },
+
+  "farabi-forum": {
+    "title": "EVENTS HELD WITHIN THE FRAMEWORK OF THE IV INTERNATIONAL FARABI FORUM",
+    "events": [
+      {
+        "label": "Conferences",
+        "desc": "\"Al-Farabi's Legacy in Human History\" | \"Translation as a Phenomenon of Civilization\"",
+        "href": "/programme"
+      },
+      {
+        "label": "Spring School",
+        "desc": "International Spring School \"Islamic Heritage in the Modern World\"",
+        "href": "/spring-school-brochure.pdf"
+      },
+      {
+        "label": "Discussion Platforms",
+        "desc": "Religion and Social Life | Thinkers of the Kazakh Steppe | Psychology and Human",
+        "href": "/discussion"
+      },
+      {
+        "label": "Awarding Competition Winners",
+        "desc": "Essay Contest | Video Contest | \"Best Scientific Project\"",
+        "href": "/awards"
+      }
+    ]
+  },
+
+  "discussion": {
+    "title": "DISCUSSION PLATFORMS HELD WITHIN THE FRAMEWORK OF THE IV INTERNATIONAL FARABI FORUM",
+    "day": "Day",
+    "place": "Place",
+    "moderator": "Moderator",
+    "secretary": "Secretary",
+    "discussions": [
+      {
+        "label": "I discussion platform. \"Religion and social life: problems and prospects\"",
+        "date": "April 2, 15:00",
+        "address": "FFiP, room 316",
+        "moderator": "Ruslan Sarsembaev, PhD, senior lecturer of the Department of Religious Studies and Cultural Studies",
+        "secretary": "Nurzhan Abdullaev, doctoral student of the Department of Religious Studies and Cultural Studies"
+      },
+      {
+        "label": "II discussion platform. Thinkers of the Kazakh steppe – Arabic sources in world archives",
+        "date": "April 3, 10:00",
+        "address": "Building No. 5, conference hall No. 432 named after Absattar Derbisali",
+        "moderator": "Ernar Mazhen, senior lecturer of the Department of Religious Studies and Cultural Studies",
+        "secretary": "Nazerke Eleusyzbaeva, doctoral student of the Department of Religious Studies and Cultural Studies"
+      },
+      {
+        "label": "III discussion platform. The contribution of medieval Islamic thought to world civilization",
+        "date": "April 3, 15:00",
+        "address": "FFiP, room 316",
+        "moderator": "Ruslan Sarsembaev, PhD, senior lecturer of the Department of Religious Studies and Cultural Studies",
+        "secretary": "Ruslan Sarsembaev, PhD, senior lecturer of the Department of Religious Studies and Cultural Studies"
+      }
+    ]
+  },
+
+  "committee": {
+    "title": "Organizing Committee",
+    "members": [
+      {
+        "name": "Tuimebayev Zhanseit Kansaituly",
+        "desc": "Rector of Al-Farabi Kazakh National University",
+        "imglink": "https://farabi-rosy.vercel.app/images/member1.jpeg"
+      },
+      {
+        "name": "Duysenov Yerkin Ermanovich",
+        "desc": "Member of the Board - Vice-Rector for Operational Activities",
+        "imglink": "https://farabi-rosy.vercel.app/images/member2.jpeg"
+      },
+      {
+        "name": "Meirbayev Bekzhan Berikbayevich",
+        "desc": "Dean of the Faculty of Philosophy and Political Science",
+        "imglink": "https://farabi-rosy.vercel.app/images/member1.jpg"
+      }
+    ]
+  },
+
+  "speakers": {
+    "title": "Speakers",
+    "list": [
+      {
+        "name": "Aykhan Korkmaz",
+        "desc": "Education Advisor at the Consulate General of the Republic of Turkey in Almaty (Turkey)",
+        "imglink": "https://farabi-rosy.vercel.app/images/member6.jpg"
+      },
+      {
+        "name": "Saleh Albdah",
+        "desc": "Deputy Ambassador of the Kingdom of Saudi Arabia to the Republic of Kazakhstan (Saudi Arabia)",
+        "imglink": "https://farabi-rosy.vercel.app/images/saud.jpg"
+      },
+      {
+        "name": "Hossein Aghazadeh",
+        "desc": "Director of the Cultural Representation of the Islamic Republic of Iran in Almaty (Islamic Republic of Iran)",
+        "imglink": "https://farabi-rosy.vercel.app/images/%D0%B8%D1%80%D0%B0%D0%BD.jpg"
+      }
+    ]
+  },
+
+  "partners": {
+    "title": "Partners",
+    "list": [
+      {
+        "name": "University of Jordan",
+        "imglink": "https://farabi-rosy.vercel.app/images/partner1.jpg"
+      },
+      {
+        "name": "University of Sofia",
+        "imglink": "https://farabi-rosy.vercel.app/images/partner2.jpg"
+      },
+      {
+        "name": "Cairo University",
+        "imglink": "https://farabi-rosy.vercel.app/images/partner3.jpg"
+      }
+    ]
+  },
+
+  "conference1": {
+    "sections": [
+      {
+        "id": 1,
+        "name": "International Scientific and Practical Conference \"AL-FARABI'S LEGACY IN HUMAN HISTORY\"",
+        "description": "April 2, Al-Farabi Scientific Library, Conference room No. 409",
+        "timeline": [
+          {
+            "time": "14:00-14:15",
+            "description": "Welcome Address and Conference Opening"
+          },
+          {
+            "time": "14:15-14:30",
+            "description": "Presentation 1: Al-Farabi's Legacy in Historical Context"
+          },
+          {
+            "time": "14:30-14:45",
+            "description": "Presentation 2: Philosophical Teachings of Al-Farabi"
+          },
+          {
+            "time": "14:45-15:00",
+            "description": "Presentation 3: Al-Farabi's Influence on Culture and Science"
+          },
+          {
+            "time": "15:00-15:15",
+            "description": "Discussion and Audience Questions"
+          },
+          {
+            "time": "15:15-15:30",
+            "description": "Presentation 4: Contemporary Significance of the Legacy"
+          },
+          {
+            "time": "15:30-15:45",
+            "description": "Closing Remarks and Coffee Break"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Section 2: Al-Farabi's Heritage",
+        "description": "Continuation on April 2",
+        "timeline": [
+          {
+            "time": "15:45-16:00",
+            "description": "Opening of the Second Session"
+          },
+          {
+            "time": "16:00-16:15",
+            "description": "Presentation 5: Al-Farabi's Mathematical Ideas"
+          },
+          {
+            "time": "16:15-16:30",
+            "description": "Presentation 6: Logic and Metaphysics"
+          },
+          {
+            "time": "16:30-16:45",
+            "description": "Presentation 7: Ethics and Political Philosophy"
+          },
+          {
+            "time": "16:45-17:00",
+            "description": "Discussion and Exchange of Ideas"
+          },
+          {
+            "time": "17:00-17:15",
+            "description": "Presentation 8: Al-Farabi and Turkic Thought"
+          },
+          {
+            "time": "17:15-17:30",
+            "description": "Conference Closing and Publication Plans"
+          }
+        ]
+      }
+    ]
+  },
+
+  "conference2": {
+    "sections": [
+      {
+        "id": 1,
+        "name": "International Scientific Conference on the topic \"TRANSLATION AS A PHENOMENON OF CIVILIZATION: BASED ON THE HERITAGE OF AL-FARABI AND TURKIC SCHOLARS\"",
+        "description": "April 2, Conference Hall named after Absattar Derbisali",
+        "timeline": [
+          {
+            "time": "14:00-14:15",
+            "description": "Welcome Address"
+          },
+          {
+            "time": "14:15-14:30",
+            "description": "Presentation 1: Translation in the Context of Civilization"
+          },
+          {
+            "time": "14:30-14:45",
+            "description": "Presentation 2: The Legacy of Al-Farabi"
+          },
+          {
+            "time": "14:45-15:00",
+            "description": "Presentation 3: Turkic Scholars and Their Contributions"
+          },
+          {
+            "time": "15:00-15:15",
+            "description": "Discussion and Audience Questions"
+          },
+          {
+            "time": "15:15-15:30",
+            "description": "Presentation 4: Modern Aspects of Translation"
+          },
+          {
+            "time": "15:30-15:45",
+            "description": "Closing Remarks and Summary"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "International Scientific Conference on the topic \"TRANSLATION AS A PHENOMENON OF CIVILIZATION: BASED ON THE HERITAGE OF AL-FARABI AND TURKIC SCHOLARS\"",
+        "description": "Section 2",
+        "timeline": [
+          {
+            "time": "15:45-16:00",
+            "description": "Coffee Break and Informal Discussion"
+          },
+          {
+            "time": "16:00-16:15",
+            "description": "Presentation 5: Documentation and Translation Studies"
+          },
+          {
+            "time": "16:15-16:30",
+            "description": "Presentation 6: Philology and Textual Analysis"
+          },
+          {
+            "time": "16:30-16:45",
+            "description": "Presentation 7: Scientific Innovations and Conclusions"
+          },
+          {
+            "time": "16:45-17:00",
+            "description": "Discussion and Exchange of Ideas"
+          },
+          {
+            "time": "17:00-17:15",
+            "description": "Presentation 8: Translation in the Turkic Tradition"
+          },
+          {
+            "time": "17:15-17:30",
+            "description": "Session Closing and Future Collaboration Plans"
+          }
+        ]
+      }
+    ]
+  },
+
+  "mazhilis": {
+    "title": "MAZHILIS",
+    "date": "April 4, Al-Farabi Scientific Library, Conference room No. 409",
+    "timeline": [
+      {
+        "time": "14:00-14:15",
+        "description": "Mazhilis Opening"
+      },
+      {
+        "time": "14:15-14:45",
+        "description": "Mazhilis Session 1: Al-Farabi in History and Culture"
+      },
+      {
+        "time": "14:45-15:15",
+        "description": "Mazhilis Session 2: Scientific Heritage and Contemporary Issues"
+      },
+      {
+        "time": "15:15-15:45",
+        "description": "Discussion and Participant Questions"
+      },
+      {
+        "time": "15:45-16:00",
+        "description": "Coffee Break and Informal Discussions"
+      },
+      {
+        "time": "16:00-16:45",
+        "description": "Mazhilis Session 3: Integration of Traditions"
+      },
+      {
+        "time": "16:45-17:00",
+        "description": "Mazhilis Closing and Final Remarks"
+      }
+    ]
+  }
+}

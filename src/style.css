@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica:wght,CRSV@100..900,0&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-farabi-blue: oklch(0.3163 0.115 261.53); 
+  --color-farabi-lightblue: oklch(0.4567 0.1442 261.74); 
+  --color-farabi-yellow: oklch(0.7445 0.1451 55.27); 
+};
+
+
+:root {
+	font-family: "Geologica", sans-serif;
+	font-optical-sizing: auto;
+	font-style: normal;
+  	font-variation-settings:
+		"slnt" 0,
+		"CRSV" 0,
+		"SHRP" 0;
+	line-height: 1.5;
+	font-weight: 400;
+
+	color: #222;
+	background-color: #ffffff;
+
+	font-synthesis: none;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-text-size-adjust: 100%;
+}
+
+body {
+	margin: 0;
+	display: flex;
+	align-items: center;
+}
+
+#app {
+	width: 100%;
+	height: 100dvh;
+	margin: 0 auto;
+	padding: 5rem 1.25rem;
+	text-align: center;
+}
+
+/* 
+@media (prefers-color-scheme: dark) {
+	:root {
+		color: #ccc;
+		background-color: #1a1a1a;
+	}
+	.resource {
+		color: #ccc;
+		background-color: #161616;
+	}
+	.resource:hover {
+		border: 1px solid #bbb;
+	}
+} */
