@@ -38,18 +38,18 @@ export function App() {
             <Header />
                 <main className={"h-full"}>
                     <Router>
-                        <Route path="/" component={Home} />
-                        <Route path="/farabi" component={Farabi} />
-                        <Route path="/map" component={Map} />
+                        <Route path="/farabi-forum-website/" component={Home} />
+                        <Route path="/farabi-forum-website/farabi" component={Farabi} />
+                        <Route path="/farabi-forum-website/map" component={Map} />
 
-                        <Route path="/farabi-forum" component={FarabiForum} />
-                        <Route path="/programme" component={Conference1} />
-                        <Route path="/sections" component={Conference2} />
-                        <Route path="/mazhilis" component={Mazhilis} />
-                        <Route path="/discussion" component={Discussion} />
-                        <Route path="/speakers" component={Speakers} />
-                        <Route path="/committee" component={Committee} />
-                        <Route path="/partners" component={Partners} />
+                        <Route path="/farabi-forum-website/farabi-forum" component={FarabiForum} />
+                        <Route path="/farabi-forum-website/programme" component={Conference1} />
+                        <Route path="/farabi-forum-website/sections" component={Conference2} />
+                        <Route path="/farabi-forum-website/mazhilis" component={Mazhilis} />
+                        <Route path="/farabi-forum-website/discussion" component={Discussion} />
+                        <Route path="/farabi-forum-website/speakers" component={Speakers} />
+                        <Route path="/farabi-forum-website/committee" component={Committee} />
+                        <Route path="/farabi-forum-website/partners" component={Partners} />
                         
                     </Router>
                 </main>

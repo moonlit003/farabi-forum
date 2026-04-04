@@ -7,14 +7,14 @@ export function Home(props) {
 
     // 1. Массив с данными для кнопок
     const menuItems = [
-        { href: "/farabi-forum", label: t('common.farabi-forum'), icon: <Calendar /> },
-        { href: "/programme", label: t('common.conference-1'), icon: <Mic /> },
-        { href: "/sections", label: t('common.conference-2'), icon: <UsersRound /> },
-        { href: "/mazhilis", label: t('common.session'), icon: <Newspaper /> },
-        { href: "/discussion", label: t('common.discussion-areas'), icon: <MessagesSquare /> },
-        { href: "/speakers", label: t('common.speakers'), icon: <Handshake /> },
-        { href: "/committee", label: t('common.committee'), icon: <UserRound /> },
-        { href: "/partners", label: t('common.partners'), icon: <Handshake /> },
+        { href: "/farabi-forum-website/farabi-forum", label: t('common.farabi-forum'), icon: <Calendar /> },
+        { href: "/farabi-forum-website/programme", label: t('common.conference-1'), icon: <Mic /> },
+        { href: "/farabi-forum-website/sections", label: t('common.conference-2'), icon: <UsersRound /> },
+        { href: "/farabi-forum-website/mazhilis", label: t('common.session'), icon: <Newspaper /> },
+        { href: "/farabi-forum-website/discussion", label: t('common.discussion-areas'), icon: <MessagesSquare /> },
+        { href: "/farabi-forum-website/speakers", label: t('common.speakers'), icon: <Handshake /> },
+        { href: "/farabi-forum-website/committee", label: t('common.committee'), icon: <UserRound /> },
+        { href: "/farabi-forum-website/partners", label: t('common.partners'), icon: <Handshake /> },
     ];
 
     return (

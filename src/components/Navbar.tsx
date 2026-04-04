@@ -28,9 +28,9 @@ export function Navbar() {
 
     return (
         <nav className="z-10 fixed w-full h-20 bottom-0 left-0 text-white bg-farabi-blue flex justify-evenly">
-            <NavItem href="/" label={t('common.home')} icon={<House/>}/>
-            <NavItem href="/farabi" label={t('common.farabi')} icon={<Landmark/>}/>
-            <NavItem href="/map" label={t('common.map')} icon={<Map/>}/>
+            <NavItem href="/farabi-forum-website/" label={t('common.home')} icon={<House/>}/>
+            <NavItem href="/farabi-forum-website/farabi" label={t('common.farabi')} icon={<Landmark/>}/>
+            <NavItem href="/farabi-forum-website/map" label={t('common.map')} icon={<Map/>}/>
             
             {/* Wrapper div to hold the ref for the menu area */}
             <div ref={menuRef} className="relative flex items-center justify-center">
