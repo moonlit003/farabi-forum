@@ -15,7 +15,7 @@ export function Farabi(props) {
     return (
         <div className="py-4 max-w-lg mx-auto">
             <video controls className="rounded-sm ring-1 ring-gray-300 shadow-md w-full">
-                <source src="/farabi-video.mp4" type="video/mp4" />
+                <source src="/farabi-forum-website/farabi-video.mp4" type="video/mp4" />
             </video>
 
             {/* <img src="/farabi_image.png" alt="image of farabi" className={"w-full max-h-32 object-cover object-[center_70%] rounded-sm ring-1 ring-gray-300 shadow-md"} /> */}
