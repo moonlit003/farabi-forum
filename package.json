@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"type": "module",
-	"homepage": "https://moonlit003.github.io/farabi-forum/",
+	"homepage": "https://moonlit003.github.io/farabi-website/",
 	"scripts": {
 		"dev": "vite",
 		"build": "vite build",
