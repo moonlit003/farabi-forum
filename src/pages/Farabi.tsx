@@ -2,7 +2,7 @@ import { LinksButton } from "../components/LinksButton";
 import { useTranslation } from "../i18n";
 
 
-export function Farabi(props) {
+export function Farabi() {
     const { t } = useTranslation();
 
     const paragraphs = t('farabi-article.paragraphs') as unknown as string[];
@@ -24,7 +24,7 @@ export function Farabi(props) {
 
             <div className="space-y-4 mb-8">
                 {paragraphs.map((paragraph, index) => (
-                    <p key={index} className="text-lg leading-relaxed text-left">
+                    <p key={index} className="text-lg leading-relaxed text-justify">
                         {paragraph}
                     </p>
                 ))}

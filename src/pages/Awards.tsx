@@ -2,14 +2,14 @@ import { DiscussionCard } from "../components/DiscussionCard"
 import { useTranslation } from "../i18n"
 
 
-export function Discussion() {
+export function Awards() {
     const { t } = useTranslation();
-    const discussions = t("discussion.discussions");
+    const discussions = t("awards.awards");
 
     return (
         <div className="py-4 max-w-xl mx-auto">
             <h2 className="text-2xl font-bold my-2 mb-4">
-                {t("discussion.title")}
+                {t("common.awards")}
             </h2>
 
             <div className="mb-20 flex flex-col gap-5">
@@ -21,6 +21,7 @@ export function Discussion() {
                         adress={discussion.address}
                         moderator={discussion.moderator}
                         secretar={discussion.secretary}
+                        translationPrefix="awards"
                     />
                 ))}
             </div>

@@ -16,7 +16,7 @@ export function FarabiForum() {
                 {t("farabi-forum.title")}
             </h2>
 
-            <div className="flex flex-col gap-3 mb-20">
+            <div className="flex flex-col gap-5 mb-20">
                 {events.map((event: any, index: number) => (
                     <ForumCard
                         key={index}

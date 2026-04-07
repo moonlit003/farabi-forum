@@ -18,6 +18,8 @@ import { Speakers } from './pages/Speakers';
 import { Committee } from './pages/Committee';
 import { Partners } from './pages/Partners';
 
+import { Awards } from './pages/Awards';
+
 
 import { Navbar } from './components/Navbar';
 import { Header } from './components/Header'
@@ -50,6 +52,8 @@ export function App() {
                         <Route path="/farabi-forum-website/speakers" component={Speakers} />
                         <Route path="/farabi-forum-website/committee" component={Committee} />
                         <Route path="/farabi-forum-website/partners" component={Partners} />
+
+                        <Route path="/farabi-forum-website/awards" component={Awards} />
                         
                     </Router>
                 </main>

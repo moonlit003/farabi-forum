@@ -1,6 +1,6 @@
 {
   "common": {
-    "header": "IV INTERNATIONAL FARABI FORUM: THE 1155th ANNIVERSARY OF AL-FARABI",
+    "header": "V INTERNATIONAL FARABI FORUM: THE 1156th ANNIVERSARY OF AL-FARABI",
 
     "home": "Home",
     "map": "Map",
@@ -10,108 +10,289 @@
     "farabi-forum": "Farabi Forum",
     "conference-1": "Conference No. 1",
     "conference-2": "Conference No. 2",
-    "session": "Mazhilis",
+    "session": "Meeting",
     "discussion-areas": "Discussion Areas",
     "speakers": "Speakers",
     "committee": "Committee",
     "partners": "Partners",
 
-    "more-details": "More details"
+    "moderators": "Moderators:",
+    "secretary": "Secretary:",
+
+    "more-details": "More details",
+    "awards": "Award Ceremony for Contest Winners"
   },
   
   "farabi-article": {
-    "title": "Commemorating the 1155th Anniversary of the Great Thinker",
+    "title": "Commemorating the 1156th Anniversary of the Great Thinker",
     "paragraphs": [
-      "The year 2025 marks the 1155th anniversary of the birth of the great scientist, philosopher, mathematician, and musician Al-Farabi. His works have had a profound influence on the development of science, education, and culture, not only in the East but across the entire world.",
+      "Al-Farabi (c. 870), also known as Abu Nasr Al-Farabi, was one of the greatest philosophers and scientists of the medieval Islamic world. He was born in the region of Farab (in present-day Kazakhstan) and became known as the “Second Teacher” after Aristotle due to his deep contributions to philosophy and logic.",
+      "Al-Farabi made significant advances in fields such as philosophy, mathematics, music theory, and political science. His works focused on the relationship between reason and knowledge, the structure of an ideal society, and the role of education. He had a lasting influence on both Eastern and Western thinkers, including scholars of the Islamic Golden Age and later European philosophers.",
+      "The year 2026 marks the 1156th anniversary of the birth of the great scientist, philosopher, mathematician, and musician Al-Farabi. His works have had a profound influence on the development of science, education, and culture, not only in the East but across the entire world.",
       "In honor of this significant date, an international forum is being held to discuss Al-Farabi’s works and his contributions to the development of philosophy, ethics, pedagogy, and modern science."
     ],
-    "quote": "“Science makes a person noble and worthy of respect.”"
+    "quote": "«Science makes a person noble and worthy of respect»"
   },
   
   "resources": {
     "title": "ADDITIONAL RESOURCES",
     "subtitle": "More information about Al-Farabi can be found here:",
     "links": [
-      { "label": "Farabi Center", "href": "http://al-farabi.kaznu.ru" },
-      { "label": "Farabi Scholars", "href": "https://al-farabi.kaznu.ru/?page_id=730" },
-      { "label": "Life and Works", "href": "https://al-farabi.kaznu.ru/?page_id=911" }
+      { "label": "Farabi Center", "href": "https://al-farabi.kaznu.kz/?lang=en" },
+      { "label": "Farabi Researchers", "href": "https://al-farabi.kaznu.kz/?page_id=730&lang=en" },
+      { "label": "Life and Works", "href": "https://al-farabi.kaznu.kz/?page_id=911&lang=en" }
     ]
   },
 
   "farabi-forum": {
-    "title": "EVENTS HELD WITHIN THE FRAMEWORK OF THE IV INTERNATIONAL FARABI FORUM",
+    "title": "EVENTS HELD WITHIN THE FRAMEWORK OF THE V INTERNATIONAL FARABI FORUM",
     "events": [
       {
         "label": "Conferences",
-        "desc": "\"Al-Farabi's Legacy in Human History\" | \"Translation as a Phenomenon of Civilization\"",
+        "desc": "«The Heritage of Al-Farabi and Global Civilization: the unity of Philosophy, Science, and Spirituality»",
         "href": "/farabi-forum-website/programme"
       },
       {
-        "label": "Spring School",
-        "desc": "International Spring School \"Islamic Heritage in the Modern World\"",
-        "href": "/farabi-forum-website/spring-school-brochure.pdf"
-      },
-      {
         "label": "Discussion Platforms",
-        "desc": "Religion and Social Life | Thinkers of the Kazakh Steppe | Psychology and Human",
+        "desc": "«Dialogue of Eastern and Western Cultures: The Arabic-language Heritage of the Great Sages of the Kazakh Steppe»",
         "href": "/farabi-forum-website/discussion"
       },
       {
         "label": "Awarding Competition Winners",
-        "desc": "Essay Contest | Video Contest | \"Best Scientific Project\"",
+        "desc": "Philosophical Essay Contest | Video Competition",
         "href": "/farabi-forum-website/awards"
       }
     ]
   },
 
   "discussion": {
-    "title": "DISCUSSION PLATFORMS HELD WITHIN THE FRAMEWORK OF THE IV INTERNATIONAL FARABI FORUM",
+    "title": "DISCUSSION PLATFORMS HELD WITHIN THE FRAMEWORK OF THE V INTERNATIONAL FARABI FORUM",
     "day": "Day",
     "place": "Place",
     "moderator": "Moderator",
     "secretary": "Secretary",
     "discussions": [
       {
-        "label": "I discussion platform. \"Religion and social life: problems and prospects\"",
-        "date": "April 2, 15:00",
-        "address": "FFiP, room 316",
-        "moderator": "Ruslan Sarsembaev, PhD, senior lecturer of the Department of Religious Studies and Cultural Studies",
-        "secretary": "Nurzhan Abdullaev, doctoral student of the Department of Religious Studies and Cultural Studies"
+        "label": "International Round Table. «Dialogue of Eastern and Western Cultures: Arabic-Language Heritage of the Great Steppe Scholars»",
+        "date": "April 9, 2:30 PM",
+        "address": "Faculty of Philosophy and Political Science, Room 126",
+        "moderator": "Kurmanaliyeva A.D., Doctor of Philosophical Sciences, Professor. Zhamashev A.Sh., PhD, Associate Professor. Mazhen E.K., Senior Lecturer",
+        "secretary": "Yeleussizbayeva N.M., Doctoral Student"
       },
       {
-        "label": "II discussion platform. Thinkers of the Kazakh steppe – Arabic sources in world archives",
-        "date": "April 3, 10:00",
-        "address": "Building No. 5, conference hall No. 432 named after Absattar Derbisali",
-        "moderator": "Ernar Mazhen, senior lecturer of the Department of Religious Studies and Cultural Studies",
-        "secretary": "Nazerke Eleusyzbaeva, doctoral student of the Department of Religious Studies and Cultural Studies"
+        "label": "Republican Round Table. «Determinants of Human Capital Formation in Kazakhstan: Interdisciplinary Approaches in Analyzing the Role of Education and Culture»",
+        "date": "April 10, 10:00 AM",
+        "address": "Faculty of Philosophy and Political Science, Room 126",
+        "moderator": "Zholdubayeva A.K., Doctor of Philosophical Sciences, Professor",
+        "secretary": "Sariyeva A.T., Postdoctoral Researcher"
       },
       {
-        "label": "III discussion platform. The contribution of medieval Islamic thought to world civilization",
-        "date": "April 3, 15:00",
-        "address": "FFiP, room 316",
-        "moderator": "Ruslan Sarsembaev, PhD, senior lecturer of the Department of Religious Studies and Cultural Studies",
-        "secretary": "Ruslan Sarsembaev, PhD, senior lecturer of the Department of Religious Studies and Cultural Studies"
+        "label": "Discussion Platform I. Farabi’s Encyclopedism and Contemporary Scientific Integration",
+        "date": "April 10, 11:00 AM",
+        "address": "Faculty of Philosophy and Political Science, Lecture Hall №125",
+        "moderator": "Abisheva A.K., Doctor of Philosophical Sciences, Professor. Aidarbekov Z.S., Doctor of Philosophical Sciences, Professor",
+        "secretary": "Kulzhanova A.R., Lecturer"
+      },
+      {
+        "label": "Discussion Platform II. Al-Farabi and the Modern Era: New Paradigms of Philosophy and Science",
+        "date": "April 10, 2:00 PM",
+        "address": "Faculty of Philosophy and Political Science, Room 125",
+        "moderator": "Edilbayeva S.Zh., Doctor of Philosophical Sciences, Associate Professor. Atash B.M., Doctor of Philosophical Sciences, Acting Associate Professor",
+        "secretary": "Yelubayev B.K., PhD, Senior Lecturer"
+      },
+      {
+        "label": "Discussion Platform III. Theological Deradicalization and Social Reintegration: Religious Discourse",
+        "date": "April 10, 3:00 PM",
+        "address": "Faculty of Philosophy and Political Science, Room 123",
+        "moderator": "Sarsembayev R.M., PhD, Associate Professor",
+        "secretary": "Abdullayev N., Doctoral Student"
+      },
+      {
+        "label": "Discussion Platform IV. Modern Psychological Science: Paradigms, Research, Practice",
+        "date": "April 10, 3:00 PM",
+        "address": "Faculty of Philosophy and Political Science, Room 415",
+        "moderator": "Nurmakhanbetov A.L., Doctor of Psychological Sciences, Associate Professor",
+        "secretary": "Baimoldina L.O., PhD, Associate Professor"
+      },
+      {
+        "label": "Discussion Platform V. Society in the Sociological Dimension: Challenges in Implementing the Sustainable Development Goals",
+        "date": "April 10, 3:00 PM",
+        "address": "Faculty of Philosophy and Political Science, Room 121",
+        "moderator": "Shedenova N.U., Doctor of Sociological Sciences, Associate Professor",
+        "secretary": "Tauyekelova T.B., PhD, Senior Lecturer"
+      },
+      {
+        "label": "Discussion Platform VI. Social Work in Action: From Theory to Practical Implementation",
+        "date": "April 10, 3:00 PM",
+        "address": "Faculty of Philosophy and Political Science, Room 409",
+        "moderator": "Kylyshbayeva B.N., Doctor of Sociological Sciences, Associate Professor",
+        "secretary": "Yelamanova A.S., PhD, Lecturer"
+      },
+      {
+        "label": "Discussion Platform VII. Political Science in the Age of Information Networks: Transformation of Concepts and Methodological Approaches",
+        "date": "April 10, 2:00 PM",
+        "address": "Faculty of Philosophy and Political Science, Room 408",
+        "moderator": "Nassimova G.O., Doctor of Political Sciences, Professor",
+        "secretary": "Abzhapparova A.A., PhD"
+      },
+      {
+        "label": "Discussion Platform VIII. Al-Farabi’s Pedagogical Heritage: The Intersection of Reason, Wisdom, and Artificial Intelligence",
+        "date": "April 10, 2:00 PM",
+        "address": "Faculty of Philosophy and Political Science, Room 408",
+        "moderator": "Baidaliyev D.D., Candidate of Pedagogical Sciences",
+        "secretary": "Suleimenova R.M., PhD Doctoral Student"
       }
     ]
   },
-
+  "awards": {
+    "day": "Date",
+    "place": "Location",
+    "moderator": "Chairperson",
+    "secretary": "Secretary",
+    "awards": [
+      {
+        "label": "ESSAY COMPETITION. «Human Existence in the Digital Age: A Philosophical Analysis»",
+        "date": "April 11, 10:00 AM",
+        "address": "Al-Farabi Scientific Library, Room 303 (Hall of the First President)",
+        "moderator": "Sembayeva Gulnar, Senior Lecturer of the Department of Philosophy",
+        "secretary": "Kulzhanova Aru, Lecturer of the Department of Philosophy"
+      },
+      {
+        "label": "VIDEO CONTEST. «National Identity and Spiritual Values in Kazakh Philosophy»",
+        "date": "April 11, 10:00 AM",
+        "address": "Al-Farabi Scientific Library, Room 303 (Hall of the First President)",
+        "moderator": "Kaziyeva Zhadyra, Senior Lecturer of the Department of Philosophy",
+        "secretary": "Ungarova Meiyrgul, Doctoral Student of the Department of Philosophy"
+      }
+    ]
+  },
   "committee": {
     "title": "Organizing Committee",
-    "members": [
+    "groups": [
       {
-        "name": "Tuimebayev Zhanseit Kansaituly",
-        "desc": "Rector of Al-Farabi Kazakh National University",
-        "imglink": "https://farabi-rosy.vercel.app/images/member1.jpeg"
+        "title": "University Leadership",
+        "members": [
+          {
+            "name": "Tuimebayev Zhanseit Kanseituly",
+            "desc": "Chairman of the Board – Rector of Al-Farabi KazNU.",
+            "imglink": "https://farabi-rosy.vercel.app/images/member1.jpeg"
+          },
+          {
+            "name": "Duisenov Erkin Ermanovich",
+            "desc": "Member of the Board – Vice-Rector for Operations",
+            "imglink": "https://farabi-rosy.vercel.app/images/member2.jpeg"
+          },
+          {
+            "name": "Ibraimov Margulan Kasenovich",
+            "desc": "Member of the Board – Vice-Rector for Research and Innovation",
+            "imglink": "https://farabi.university/storage/files/Margulan.jpg"
+          }
+        ]
       },
       {
-        "name": "Duysenov Yerkin Ermanovich",
-        "desc": "Member of the Board - Vice-Rector for Operational Activities",
-        "imglink": "https://farabi-rosy.vercel.app/images/member2.jpeg"
+        "title": "Deans and Heads of Centers",
+        "members": [
+          {
+            "name": "Meirbayev Bekzhan Berikbayuly",
+            "desc": "Dean of the Faculty of Philosophy and Political Science",
+            "imglink": "https://cdn.discordapp.com/attachments/1491144565632139336/1491144640416448692/c3606d7d-431b-4a86-9e76-b139e3118575.png?ex=69d6a02a&is=69d54eaa&hm=e640ff49b8c8cbf2ab4c5d4d66205b89b7eae7ff92b67f4452379d95526c8ac8&"
+          },
+          {
+            "name": "Suleimenov Pirimbek Makhanbetuly",
+            "desc": "Director of the Al-Farabi Center",
+            "imglink": "https://cdn.discordapp.com/attachments/1491144565632139336/1491145416379731988/image.png?ex=69d6a0e3&is=69d54f63&hm=c0183b39a957c31550a889b551d5fcd0f3b52857d90f2dd5e826194d160bfbd7&"
+          },
+          {
+            "name": "Arekenova Zhadyra Aydyngaliqyzy",
+            "desc": "Director of the Al-Farabi Library.",
+            "imglink": "https://cdn.discordapp.com/attachments/1491144565632139336/1491146340133109780/image.png?ex=69d6a1bf&is=69d5503f&hm=0be98601aff642b7851f3c6d0b428443a3c91937ea30158f82f6ccba628e78d9&"
+          },
+          {
+            "name": "Altayev Zhakypbek Altayuly",
+            "desc": "Scientific Consultant of the Al-Farabi Center.",
+            "imglink": "https://www.filosof.kz/img/persons/1764133191_%D0%90%D0%BB%D1%82%D0%B0%D0%B5%D0%B2.jpg"
+          },
+          {
+            "name": "Gabitov Tursyn Khafizuly",
+            "desc": "Co-chairman of the Philosophical Society of Turkic Peoples.",
+            "imglink": "https://cdn.discordapp.com/attachments/1491144565632139336/1491147057791111410/7bd27f08-b878-47e0-acb9-95eb5b945348.png?ex=69d6a26a&is=69d550ea&hm=975c467a8d40251d0bd4f375e34d9ca2fdbbaf0f7a637c53befb92d4db5682c1&"
+          }
+        ]
       },
       {
-        "name": "Meirbayev Bekzhan Berikbayevich",
-        "desc": "Dean of the Faculty of Philosophy and Political Science",
-        "imglink": "https://farabi-rosy.vercel.app/images/member1.jpg"
+        "title": "Heads of Departments",
+        "members": [
+          {
+            "name": "Kurmanaliyeva Ainur Durbelengqyzy",
+            "desc": "Head of the Department of Religious and Cultural Studies.",
+            "imglink": "https://farabi.university/storage/department/2649301860642d2f79b3be0706806763_%D0%A4%D0%A4%D0%B8%D0%9F%20%D0%B7%D0%B0%D0%B2%20%D0%BA%D0%B0%D1%84%20%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%20%D2%9A%D2%B1%D1%80%D0%BC%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%20%D0%90%D0%B9%D0%BD%D2%B1%D1%80%20%D0%94%D2%AF%D1%80%D0%B1%D0%B5%D0%BB%D0%B5%D2%A3%D2%9B%D1%8B%D0%B7%D1%8B.jpg"
+          },
+          {
+            "name": "Kudaibergenova Nazgul Zhanisqyzy",
+            "desc": "Acting Head of the Department of Philosophy.",
+            "imglink": "https://cdn.discordapp.com/attachments/1491144565632139336/1491148847500628059/image.png?ex=69d6a415&is=69d55295&hm=8f635cbb9175426056d3f99647441c665044ff54aab3cd0803e7b3b32da6694e&"
+          },
+          {
+            "name": "Nasimova Gulnar Omirbaiqyzy",
+            "desc": "Head of the Department of Political Science and Political Technologies.",
+            "imglink": "https://pps.kaznu.kz/0/Main/getPhotoPersonalSite/1491_jpg/False"
+          },
+          {
+            "name": "Abdiraiymova Gulmira Serikqyzy",
+            "desc": "Head of the Department of Sociology and Social Work.",
+            "imglink": "https://pps.kaznu.kz/0/Main/getPhotoPersonalSite/1499_jpg/False"
+          },
+          {
+            "name": "Alkozhaeva Nursulu Seitkerimqyzy",
+            "desc": "Head of the Department of Pedagogy and Educational Management.",
+            "imglink": "https://farabi.university/storage/department/3665127043642d264fb1e38503426269_%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%20%D0%BF%D0%B5%D0%B4%D0%B0%D0%B3%D0%BE%D0%B3%D0%B8%D0%BA%D0%B8%20%D0%B8%20%20%D0%BE%D0%B1%D1%80%20%D0%BC%D0%B5%D0%BD%20%D0%B7%D0%B0%D0%B2%20%D0%BA%D0%B0%D1%84%20%D0%90%D0%BB%D0%B3%D0%BE%D0%B6%D0%B0%D0%B5%D0%B2%D0%B0%20%D0%9D%D0%A1.jfif"
+          },
+          {
+            "name": "Nurmakhanbetov Arman Leskhanuly",
+            "desc": "Head of the Department of General and Applied Psychology.",
+            "imglink": "https://cdn.discordapp.com/attachments/1491144565632139336/1491150682714017822/image.png?ex=69d6a5ca&is=69d5544a&hm=0bf9d5adafee5129b377c52667047360cb44d1d1588395f7130e4b440a51ed88&"
+          }
+        ]
+      },
+      {
+        "title": "Researchers and Deputy Deans",
+        "members": [
+          {
+            "name": "Zholmukhamedova Nailya Khusainqyzy",
+            "desc": "Researcher at the Al-Farabi Center.",
+            "imglink": "https://cdn.discordapp.com/attachments/1491144565632139336/1491151622255022190/image.png?ex=69d6a6ab&is=69d5552b&hm=ccc386345fc1cee029b261c421fd4f12fc14ef14f39af52203a5cda92421fde3&"
+          },
+          {
+            "name": "Bekenova Zhumagul Nurdauletqyzy",
+            "desc": "Deputy Dean for Academic Affairs.",
+            "imglink": "https://pps.kaznu.kz/0/Main/getPhotoPersonalSite/13466_jpg/False"
+          },
+          {
+            "name": "Karybaeva Ainur Nesibekqyzy",
+            "desc": "Deputy Dean for Research, Innovation, and International Relations.",
+            "imglink": "https://pps.kaznu.kz/0/Main/getPhotoPersonalSite/10829_jpg/False"
+          },
+          {
+            "name": "Ayazbaeva Beibit Bultekqyzy",
+            "desc": "Deputy Dean for Educational Work.",
+            "imglink": "https://cdn.discordapp.com/attachments/1491144565632139336/1491154079857250375/image.png?ex=69d6a8f4&is=69d55774&hm=a19fdfa62f8797b1488317013d63e8d7d8ee3130ce9133042992cb491c0d0d57&"
+          },
+          {
+            "name": "Duisenbayev Abai Kabakbaiuly",
+            "desc": "Associate Professor-Researcher of the Department of Pedagogy.",
+            "imglink": "https://cdn.discordapp.com/attachments/1491144565632139336/1491153457132998667/image.png?ex=69d6a860&is=69d556e0&hm=5c75033af7535196ddc31aff2d54fda4e7fee9eb32aaf7ec83ef7c356f6e407c&"
+          },
+          {
+            "name": "Baltymova Mira Rashidqyzy",
+            "desc": "Deputy Head of the Department of Religious Studies for Research and Innovation.",
+            "imglink": "https://cdn.discordapp.com/attachments/1491144565632139336/1491154608821768325/image.png?ex=69d6a973&is=69d557f3&hm=e98559a43136d2d416ef1a03c2282e602f961dd316fa9546591825403f5f216a&"
+          },
+          {
+            "name": "Zeinullin Raimbek Bakytzhanuly",
+            "desc": "Deputy Head of the Department of Philosophy for Research and Innovation.",
+            "imglink": "https://cdn.discordapp.com/attachments/1491144565632139336/1491155159730884689/image.png?ex=69d6a9f6&is=69d55876&hm=2ea525285204e42a257dd9517ecec96d01738c7ff19426183d9fbe4d4c26fc2f&"
+          }
+        ]
       }
     ]
   },
@@ -120,19 +301,74 @@
     "title": "Speakers",
     "list": [
       {
-        "name": "Aykhan Korkmaz",
-        "desc": "Education Advisor at the Consulate General of the Republic of Turkey in Almaty (Turkey)",
-        "imglink": "https://farabi-rosy.vercel.app/images/member6.jpg"
+        "name": "Sona Ahmadi",
+        "desc": "Consul General of the Islamic Republic of Iran in Almaty (Iran)",
+        "imglink": "https://cdn.discordapp.com/attachments/1491144565632139336/1491209425271263302/49dcf255-8208-4b87-80fd-f773ce7fddc2.png?ex=69d6dc80&is=69d58b00&hm=74958c36fb6982d92a29d3727c92d1901065889671daad6e6d25db1c7464631d&"
       },
       {
-        "name": "Saleh Albdah",
-        "desc": "Deputy Ambassador of the Kingdom of Saudi Arabia to the Republic of Kazakhstan (Saudi Arabia)",
-        "imglink": "https://farabi-rosy.vercel.app/images/saud.jpg"
+        "name": "Huang Xiaomin",
+        "desc": "Education Attaché of the People's Republic of China in Almaty (PRC)",
+        "imglink": "https://cdn.discordapp.com/attachments/1491144565632139336/1491209651063099452/image.png?ex=69d6dcb6&is=69d58b36&hm=4c9834afcf39810fa1f352670c9bcf4dc30d483bcfe64d08b384ccd670c8c33b&"
       },
       {
-        "name": "Hossein Aghazadeh",
-        "desc": "Director of the Cultural Representation of the Islamic Republic of Iran in Almaty (Islamic Republic of Iran)",
-        "imglink": "https://farabi-rosy.vercel.app/images/%D0%B8%D1%80%D0%B0%D0%BD.jpg"
+        "name": "Shukru Kose",
+        "desc": "Education Attaché of the Republic of Turkiye in Almaty (Turkiye)",
+        "imglink": "https://cilisos.my/wp-content/uploads/2016/07/unknown-person-icon-Image-from.png"
+      },
+      {
+        "name": "Isanaeva Cholpon Imangazievna",
+        "desc": "Attaché of the Consulate General of the Kyrgyz Republic in Almaty (Kyrgyz Republic)",
+        "imglink": "https://cilisos.my/wp-content/uploads/2016/07/unknown-person-icon-Image-from.png"
+      },
+      {
+        "name": "Derekh Samir Ali",
+        "desc": "Honorary Consul of Syria in the Republic of Kazakhstan (Syria)",
+        "imglink": "https://cdn.discordapp.com/attachments/1491144565632139336/1491210862436814888/3094a0b8-5f62-40fe-965b-f8fd5d9f47d6.png?ex=69d6ddd6&is=69d58c56&hm=7e74d13b398a704b0b58a1d2b22b883450c2a4f263335f7c03f937a1ae84425e&"
+      },
+      {
+        "name": "Sadvakasova Aigul Kakimbekovna",
+        "desc": "Director of the Institute of Philosophy, Political Science and Religious Studies, Doctor of Sociological Sciences (Kazakhstan)",
+        "imglink": "https://cdn.discordapp.com/attachments/1491144565632139336/1491211386100121780/679abe94-bc54-43ea-bd04-3a98317e9edd.png?ex=69d6de53&is=69d58cd3&hm=1e70fc679e941f8ba7e8321e8567038e971b49e04753638eb078ceee286de356&"
+      },
+      {
+        "name": "Ahmed Hussein Mohammed Ibrahim",
+        "desc": "Rector of the Egyptian University of Islamic Culture 'Nur-Mubarak', Professor (Egypt)",
+        "imglink": "https://cdn.discordapp.com/attachments/1491144565632139336/1491211873087918143/image.png?ex=69d6dec7&is=69d58d47&hm=554e918491a4300e47049a18104886e1e1af1e590940a34a955be2ed34fdb2cb&"
+      },
+      {
+        "name": "Borotov Sharif Ramazanovich",
+        "desc": "Rector of Bukhara International University (Uzbekistan)",
+        "imglink": "https://cdn.discordapp.com/attachments/1491144565632139336/1491212114864509209/f9ee197e-97d7-45c0-bdf8-94326eedd529.png?ex=69d6df01&is=69d58d81&hm=efb9c73adfc50017b58a0b7fa0ec8538eb25d7b30b3ee6a2ab799db2e418422e&"
+      },
+      {
+        "name": "Boltri Roberto",
+        "desc": "UN Volunteer in Central Asia, Advisor on Environment and Socio-Economic Development, Professor at the University of Bologna (Italy)",
+        "imglink": "https://cdn.discordapp.com/attachments/1491144565632139336/1491211328113606686/image.png?ex=69d6de45&is=69d58cc5&hm=d1270d89e03fb411fe4086b8eeec4af3c4fbe2ebb986b423e5e9520f3f9bfe7a&"
+      },
+      {
+        "name": "Aghazadeh Hossein",
+        "desc": "Director of the Cultural Representation of the Islamic Republic of Iran in Almaty (Iran)",
+        "imglink": "https://cdn.discordapp.com/attachments/1491144565632139336/1491212655703101441/image.png?ex=69d6df82&is=69d58e02&hm=ef59c81fe3eec34671fb938da06d5ee1458f2dbdb5852739a1d9ad30cb6320ab&"
+      },
+      {
+        "name": "Dagduran Ahmet",
+        "desc": "President of the Foundation for the Culture of Turkic Peoples (Turkiye)",
+        "imglink": "https://kaznpu.kz/docs/smi/3.3.2018.2.jpg"
+      },
+      {
+        "name": "Gao Xiaoling",
+        "desc": "Director of the Institute of Foreign Languages and International Relations, Zhengzhou University (PRC)",
+        "imglink": "https://cilisos.my/wp-content/uploads/2016/07/unknown-person-icon-Image-from.png"
+      },
+      {
+        "name": "Torali Kydyr",
+        "desc": "Director of the Islamic Research Institute (Kazakhstan)",
+        "imglink": "https://cdn.discordapp.com/attachments/1491144565632139336/1491213876623310919/image.png?ex=69d6e0a5&is=69d58f25&hm=17d445d4a529f7c1c03237499c9b6cd4b8e8a08541feb1c7680fb844e52c01cb&"
+      },
+      {
+        "name": "Gabitov Tursun Khafizovich",
+        "desc": "Co-Chair of the Philosophical Society of Turkic Peoples, Vice-President of the Kazakhstan Philosophical Congress, Doctor of Philosophical Sciences, Professor (Kazakhstan)",
+        "imglink": "https://cdn.discordapp.com/attachments/1491144565632139336/1491147057791111410/7bd27f08-b878-47e0-acb9-95eb5b945348.png?ex=69d6a26a&is=69d550ea&hm=975c467a8d40251d0bd4f375e34d9ca2fdbbaf0f7a637c53befb92d4db5682c1&"
       }
     ]
   },
@@ -145,12 +381,72 @@
         "imglink": "https://farabi-rosy.vercel.app/images/partner1.jpg"
       },
       {
-        "name": "University of Sofia",
+        "name": "Sofia University",
         "imglink": "https://farabi-rosy.vercel.app/images/partner2.jpg"
       },
       {
         "name": "Cairo University",
         "imglink": "https://farabi-rosy.vercel.app/images/partner3.jpg"
+      },
+      {
+        "name": "Belgorod State National Research University",
+        "imglink": "https://farabi-rosy.vercel.app/images/partner4.jpg"
+      },
+      {
+        "name": "United Nations Alliance of Civilizations (UNAOC)",
+        "imglink": "https://farabi-rosy.vercel.app/images/partner5.jpg"
+      },
+      {
+        "name": "Ca' Foscari University of Venice",
+        "imglink": "https://farabi-rosy.vercel.app/images/partner6.jpg"
+      },
+      {
+        "name": "FAMER (Istanbul University Farabi Eurasian Studies Center)",
+        "imglink": "https://farabi-rosy.vercel.app/images/partner7.jpg"
+      },
+      {
+        "name": "Institution of Economic Development and Social Researches (IKSAD)",
+        "imglink": "https://farabi-rosy.vercel.app/images/partner8.jpg"
+      },
+      {
+        "name": "Institute of Philosophy, Political Science and Religious Studies",
+        "imglink": "https://farabi-rosy.vercel.app/images/partner13.jpg"
+      },
+      {
+        "name": "University of Karachi",
+        "imglink": "https://farabi-rosy.vercel.app/images/partner12.jpg"
+      },
+      {
+        "name": "UNESCO",
+        "imglink": "https://farabi-rosy.vercel.app/images/partner11.jpg"
+      },
+      {
+        "name": "TÜRKSOY",
+        "imglink": "https://farabi-rosy.vercel.app/images/partner10.jpg"
+      },
+      {
+        "name": "Islamic World Educational, Scientific and Cultural Organization (ICESCO)",
+        "imglink": "https://farabi-rosy.vercel.app/images/partner9.jpg"
+      },
+      {
+        "name": "University of Rostock",
+        "imglink": "https://farabi-rosy.vercel.app/images/partner14.jpg"
+      },
+      {
+        "name": "Shanghai International Studies University",
+        "imglink": "https://farabi-rosy.vercel.app/images/partner15.jpg"
+      },
+      {
+        "name": "Shahid Beheshti University",
+        "imglink": "https://farabi-rosy.vercel.app/images/partner16.jpg"
+      },
+      {
+        "name": "Istanbul University",
+        "imglink": "https://farabi-rosy.vercel.app/images/partner17.jpg"
+      },
+      {
+        "name": "University of Tsukuba",
+        "imglink": "https://farabi-rosy.vercel.app/images/partner18.jpg"
       }
     ]
   },
@@ -159,71 +455,777 @@
     "sections": [
       {
         "id": 1,
-        "name": "International Scientific and Practical Conference \"AL-FARABI'S LEGACY IN HUMAN HISTORY\"",
-        "description": "April 2, Al-Farabi Scientific Library, Conference room No. 409",
+        "name": "International Scientific and Practical Conference: «The Heritage of Al-Farabi and Global Civilization: the unity of Philosophy, Science, and Spirituality»",
+        "description": "April 9, 11.00 | Al-Farabi Scientific Library, Conference Hall No. 416",
         "timeline": [
           {
-            "time": "14:00-14:15",
-            "description": "Welcome Address and Conference Opening"
+            "time": "10.00 - 10.30",
+            "description": "Registration and greeting of forum guests and participants (4th floor, lobby)"
           },
           {
-            "time": "14:15-14:30",
-            "description": "Presentation 1: Al-Farabi's Legacy in Historical Context"
+            "time": "10.30 - 10.45",
+            "description": "Flower-laying ceremony at the Al-Farabi monument by guests and participants"
           },
           {
-            "time": "14:30-14:45",
-            "description": "Presentation 2: Philosophical Teachings of Al-Farabi"
+            "time": "10.45 - 11.00",
+            "description": "1st floor — Guided tour of the Al-Farabi Museum\n4th floor, lobby — 'The Legacy of Al-Farabi' Book Exhibition"
           },
           {
-            "time": "14:45-15:00",
-            "description": "Presentation 3: Al-Farabi's Influence on Culture and Science"
+            "time": "11.00 - 13.30",
+            "description": "PLENARY SESSION (Conference Hall No. 416). Moderator: Bekzhan Meirbayev"
           },
           {
-            "time": "15:00-15:15",
-            "description": "Discussion and Audience Questions"
+            "time": "11.00 - 11.10",
+            "description": "Introductory Remarks: Zhanseit Tuimebayev, Rector of Al-Farabi Kazakh National University"
           },
           {
-            "time": "15:15-15:30",
-            "description": "Presentation 4: Contemporary Significance of the Legacy"
+            "time": "11.00 - 11.15",
+            "description": "Through the lens of wisdom. Abu Nasr Al-Farabi (AI- Generated Video Presentation)"
           },
           {
-            "time": "15:30-15:45",
-            "description": "Closing Remarks and Coffee Break"
+            "time": "11.15 - 12.30",
+            "description": "Welcoming remarks and greetings from international guests and consuls"
+          },
+          {
+            "time": "12.30 - 12.35",
+            "description": "Book Presentation: 'Al-Farabi and the Turkic Renaissance' by T. Gabitov and P. Suleimenov"
+          },
+          {
+            "time": "12.35 - 13.35",
+            "description": "Plenary reports (Altaev Zh.A., Muminov A.K., Seitakhmetova N.L., Mustafa Zh.A., Bekboev A.A., Ali Rıza Gül)"
+          },
+          {
+            "time": "13.35 - 13.45",
+            "description": "Conclusion of the plenary session. Commemorative photo"
+          },
+          {
+            "time": "13.45 - 14.30",
+            "description": "Break"
+          },
+          {
+            "time": "14.30 - 18.00",
+            "description": "Breakout sessions. Adoption of the conference resolution. Closing of the conference (Conference Hall No. 408)"
           }
         ]
       },
       {
         "id": 2,
-        "name": "Section 2: Al-Farabi's Heritage",
-        "description": "Continuation on April 2",
+        "name": "SECTION №1: Al-Farabi's Scientific-Philosophical System and Contemporary Humanitarian Thought",
+        "description": "April 9, 14.00 | Al-Farabi Scientific Library, Conference Hall No. 409",
+        "moderators": ["Suleimenov Pirimbek Mukhanbetuly", "Bekboev Askarbek Abdykakyuly"],
+        "secretary": ["Kazieva Zhadyra Nurganatkyzy"],
         "timeline": [
           {
-            "time": "15:45-16:00",
-            "description": "Opening of the Second Session"
+            "time": "Abisheva A.",
+            "description": "The Concept of Virtue in the Social Philosophy of Al-Farabi"
           },
           {
-            "time": "16:00-16:15",
-            "description": "Presentation 5: Al-Farabi's Mathematical Ideas"
+            "time": "Aleynikov M.",
+            "description": "Humanism in the Philosophical Anthropology of F.M. Dostoevsky and Abai Kunanbayev"
           },
           {
-            "time": "16:15-16:30",
-            "description": "Presentation 6: Logic and Metaphysics"
+            "time": "Altayev Zh.",
+            "description": "The History of the Formation of the School of Farabi Studies in Kazakhstan"
           },
           {
-            "time": "16:30-16:45",
-            "description": "Presentation 7: Ethics and Political Philosophy"
+            "time": "Aidarbekov Z.S.",
+            "description": "Al-Farabi and the Formation of Historical Consciousness in the Being of the Younger Generation"
           },
           {
-            "time": "16:45-17:00",
-            "description": "Discussion and Exchange of Ideas"
+            "time": "Alikbayeva M., Alshynova A.",
+            "description": "The Role of Women's Education in Ensuring National Identity and Cultural Continuity"
           },
           {
-            "time": "17:00-17:15",
-            "description": "Presentation 8: Al-Farabi and Turkic Thought"
+            "time": "Alikbayeva M.B.",
+            "description": "Al-Farabi and the Development of World Music Theory"
           },
           {
-            "time": "17:15-17:30",
-            "description": "Conference Closing and Publication Plans"
+            "time": "Arislanbayeva Z., Irismetov B., Mavlonov U.",
+            "description": "Comparative Analysis of Philosophical Concepts and Their Significance in Contemporary Contexts"
+          },
+          {
+            "time": "Asqar L., Pernebekova D.",
+            "description": "The Contribution of Al-Farabi and Ibn Sina to the Science of Logic"
+          },
+          {
+            "time": "Asqar L., Amirkulova Zh., Pernebekova D.",
+            "description": "The Turn Toward Scientific Knowledge in the History of Thinking Culture and Its Directions"
+          },
+          {
+            "time": "Akhmetzhanova G.",
+            "description": "The Ethical Teachings of Al-Farabi and Spiritual-Moral Values in Modern Society"
+          },
+          {
+            "time": "Baltymova M., Bagayev B.",
+            "description": "Islamic Fiqh: Significance and Scope of Application"
+          },
+          {
+            "time": "Borbasova Q., Yerzhanov Q.",
+            "description": "Models of Interreligious Harmony in Contemporary Catholicism"
+          },
+          {
+            "time": "Gao Xiaoling",
+            "description": "Poetic Mediator: Al-Fārābī and the Classical Foundations of English and American Literature"
+          },
+          {
+            "time": "Gu Junling",
+            "description": "The Civilizations at the Two Ends of the Silk Road: A Medical-Philosophical Perspective"
+          },
+          {
+            "time": "Gokaru Sh.",
+            "description": "At the Crossroads of Revelation and Reason: Al-Farabi’s Philosophical Synthesis and Its Modern Relevance"
+          },
+          {
+            "time": "Gabitov T.",
+            "description": "Al-Farabi as the Founder of the Turkic Renaissance"
+          },
+          {
+            "time": "Zhumashev A.",
+            "description": "The Civilization that Produced Abu Nasir al-Farabi"
+          },
+          {
+            "time": "Zoyirov E.",
+            "description": "Philosophical Analysis of the Spiritual and Scientific Legacy of Makhdumi Azam Dakhbedi"
+          },
+          {
+            "time": "Ibrahim A.",
+            "description": "Al-Farabi's Place in Islamic Thought and the Project of Harmonizing Philosophy and Sacred Law"
+          },
+          {
+            "time": "Ismagambetova Z.N., Kirabayev N.S.",
+            "description": "Al-Farabi and the Historical Images of Classical Arab-Muslim Philosophy"
+          },
+          {
+            "time": "Khassiyetova Zh.",
+            "description": "Cinematography as an Institution of Cultural Socialization: National Identity in Kazakhstan"
+          },
+          {
+            "time": "Ismailov K.",
+            "description": "The Role of Al-Farabi’s Ideas and Spiritual Values in the Formation of Modern Ethnic Groups in Central Asia"
+          },
+          {
+            "time": "Kurmanaliyeva A.D.",
+            "description": "Al-Farabi’s Scientific Path: From Otrar Wisdom to World Philosophy"
+          },
+          {
+            "time": "Kurmangalieva G.K., Nussipova G.I.",
+            "description": "The Concept of Intellectual Development in the Context of Al-Farabi’s Idea of Social Freedom"
+          },
+          {
+            "time": "Kadirov O.S.",
+            "description": "Psychoprophylactic training aimed at eliminating negative changes in the behavior of adolescents"
+          },
+          {
+            "time": "Kaupenbayeva S., Orynbassar M.",
+            "description": "Cross-Cultural Aspects of the Phenomenon of Loneliness"
+          },
+          {
+            "time": "Kantarbayeva Zh., Shanbayeva A.",
+            "description": "The Role of Religious Education in Cultural Dynamics: A Case Study of Courses for Women"
+          },
+          {
+            "time": "Qoshqarbayev E.",
+            "description": "Identifying 'Farabists' as a New Direction in Farabi Studies"
+          },
+          {
+            "time": "Kong Zhaozhao, Shakirova A.D.",
+            "description": "Gender asymmetry in the professional practices of women teachers in Сhina and Kazakhstan"
+          },
+          {
+            "time": "QingGele, Akramova A.",
+            "description": "The impact of higher education management technologies on learning outcomes"
+          },
+          {
+            "time": "Lifanova T., Balmagambetova Zh.",
+            "description": "Analysis of the Musical Nature of Intonation in the Context of Al-Farabi’s Philosophy"
+          },
+          {
+            "time": "Li Wei, Kabakova M.P., Dong Lei",
+            "description": "Fertility Intentions of Chinese and Kazakhstani University Students from a Psychological Perspective"
+          },
+          {
+            "time": "Massalimova A., Tulaqbayeva Q.",
+            "description": "Philosophical and Worldview Foundations in the Art of 'Shi' Weaving of the Kazakh People"
+          },
+          {
+            "time": "Moldabek E.",
+            "description": "Abu Nasir al-Farabi and Civilization: Philosophical-Anthropological Analysis"
+          },
+          {
+            "time": "Mohammad Javad Esmaeili",
+            "description": "A Path to Wisdom: Al-Fārābī’s Lessons for the Mind and Heart"
+          },
+          {
+            "time": "Nurgaliyev Q.",
+            "description": "Science and Education as the Foundation of Abai’s Worldview"
+          },
+          {
+            "time": "Nurmuratov S., Koyanbayeva G.",
+            "description": "Al-Farabi’s Scientific-Philosophical System and the Problem of Multidimensional Identity Today"
+          },
+          {
+            "time": "Nurmuratov S., Meirmanov A.",
+            "description": "Continuity of Al-Farabi’s Views on Scientific Knowledge in Kazakh Philosophy"
+          },
+          {
+            "time": "Nurysheva G., Tanatarova M.",
+            "description": "I. Hacking’s Experimental Realism and the Ontology of Scientific Objects"
+          },
+          {
+            "time": "Omirbekova A., Almakhanova N.",
+            "description": "Culturological Characterization of the Gastronomic Culture of Kazakhstan"
+          },
+          {
+            "time": "Oserbayev E.",
+            "description": "Al-Farabi’s Contribution to World Civilization"
+          },
+          {
+            "time": "Isimbaev Y.T., Akisheva A.K.",
+            "description": "Artificial Intelligence as a Tool for Individualized Learning"
+          },
+          {
+            "time": "Ramatov Zh.",
+            "description": "Theoretical-Methodological Foundations of Abu Nasir al-Farabi’s Teachings"
+          },
+          {
+            "time": "Sadykova D.",
+            "description": "Theoretical-Methodological Foundations of Abu Nasir al-Farabi’s Teachings (Humanitarian Thought)"
+          },
+          {
+            "time": "Sabdenova M.",
+            "description": "Abu Nasir al-Farabi’s Philosophy: Justice, Happiness, and Society"
+          },
+          {
+            "time": "Sembayeva G., Sembayeva M.",
+            "description": "Al-Farabi’s Legacy – The Spiritual and Intellectual Basis for the Development of Global Civilization"
+          },
+          {
+            "time": "Sui Xinmin",
+            "description": "A Comparative Philosophical Study of Al-Farabi’s Political Wisdom and Aśoka’s Dhamma Governance"
+          },
+          {
+            "time": "Tozhiev F.",
+            "description": "Analysis of the Social Life of Mawarannahr During the Era of Sufi Allahyar Based on Primary Sources"
+          },
+          {
+            "time": "Tuleubayeva S.",
+            "description": "Advocates of Reason and Knowledge in the History of Arabic-Language Thought"
+          },
+          {
+            "time": "Khanash I.",
+            "description": "Scientific Analysis of Al-Farabi’s Philosophy of Arts"
+          },
+          {
+            "time": "Shadmanov K.",
+            "description": "Farabi and the European Renaissance"
+          },
+          {
+            "time": "Salimova G.E., Toksanbaeva N.K.",
+            "description": "The Role of Conformism in the Process of Social Adaptation: A Psychological Analysis"
+          },
+          {
+            "time": "Saidkulov N.A.",
+            "description": "Issues of Human Perfection and Social Stability in the Teachings of Abu Nasr al-Farabi"
+          },
+          {
+            "time": "Ergasheva Yu.",
+            "description": "Al-Farabi as a Bridge Between Classical Wisdom and the Scientific Revolution"
+          },
+          {
+            "time": "Yuldashev F.A.",
+            "description": "The Socio-Political Views of Abu Nasr al-Farabi"
+          },
+          {
+            "time": "Khakkulov N.K.",
+            "description": "The Heritage of Ancestors — an Invaluable Treasure"
+          },
+          {
+            "time": "Khaydaraliyev Sh. A.",
+            "description": "Al-Farabi’s Philosophy in the Context of Contemporary Central Asia: Wisdom and Justice"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "SECTION №2 Al-Farabi's Political Philosophy in the Modern World Context: Power, Reason and Justice",
+        "description": "April 9, 14.00 | Al-Farabi Scientific Library, Conference Hall No. 416",
+        "moderators": ["Atash Berik Muratovich"],
+        "secretary": ["Bekenova Zhumagul Nurdauletovna"],
+        "timeline": [
+          {
+            "time": "Abdelbaset A.",
+            "description": "The Legacy of Abu Nasir al-Farabi in the Memory of ICESCO (Activities in Promoting the Heritage)"
+          },
+          {
+            "time": "Abdurakhmonov M.",
+            "description": "Al-Farabi's Concept of the 'Virtuous City' and Contemporary Paradigms of Sustainable Development"
+          },
+          {
+            "time": "Abdurakhmonov Kh.",
+            "description": "Socio-Political and Cultural-Legal Analysis of Al-Farabi’s Teachings in 'The City of Virtuous People'"
+          },
+          {
+            "time": "Altayev Zh., Abu A.",
+            "description": "Transformation of the Concept of Justice: The Problem of Moral Relativism in Postmodernity"
+          },
+          {
+            "time": "Apsamatova E.",
+            "description": "The Intellectual Heritage of Al-Farabi as a Factor in Shaping Regional Identity in Central Asia"
+          },
+          {
+            "time": "Asanov Zh., Talantova N.",
+            "description": "Moral Traditions and the Concept of Justice in Al-Farabi’s Philosophy"
+          },
+          {
+            "time": "Asihan, Tazhina G.O., Wang Jiali",
+            "description": "Cross-cultural adaptation of international students: a eudaimonic perspective within al-Farabi’s concept"
+          },
+          {
+            "time": "Atash B., Kaniyatov Zh.",
+            "description": "The Cybersphere and Democracy: New Paradigms Between Power, Participation, and Control"
+          },
+          {
+            "time": "Badmaev V.N.",
+            "description": "Ecology of the Future in the Context of Sustainable Development Goals"
+          },
+          {
+            "time": "Baltymova M.R., Agabayev A.",
+            "description": "The Religious Situation Under the Rulers of the Golden Horde"
+          },
+          {
+            "time": "Vilaya D.",
+            "description": "Evaluation of the Malacca Sultanate in the 15th Century from the Perspective of Al-Farabi's Philosophy"
+          },
+          {
+            "time": "Gabitov T., Bazarbay Zh.",
+            "description": "Images of Men and Women in Kazakh and Japanese Philosophy: Gender Roles and Cultural Values"
+          },
+          {
+            "time": "Enseyeva V., Shedenova N.",
+            "description": "Social Integration of Ethnic Repatriants: Challenges in Implementing SDGs in Kazakhstan"
+          },
+          {
+            "time": "Zholdubayeva A., Tursynbayeva Q.",
+            "description": "Money as an Element of Kazakh Culture"
+          },
+          {
+            "time": "Kaupenbayeva S., Zhubanyshov A.",
+            "description": "Aitys as an Institution of Public Opinion: A Cultural Form of Steppe Democracy"
+          },
+          {
+            "time": "Kussainov D.U., Ayupova Z.K.",
+            "description": "Al-Farabi’s Philosophy of Politics and Law in the Dialogue of Time"
+          },
+          {
+            "time": "Kuranbek A., Karimov D.",
+            "description": "Philosophical Analysis of the Epistemological Crisis Trend in the Post-Truth Era"
+          },
+          {
+            "time": "Lifanova T., Kozhabek N.",
+            "description": "The Concept of Justice in Al-Farabi and Its Application to Political Institutions in the Digital Age"
+          },
+          {
+            "time": "Muminov N., Mukhamethanova G.",
+            "description": "Kazakh and Turkish Historical Cinema: A Comparative Analysis of the Idea of Statehood"
+          },
+          {
+            "time": "Mukhitdinova F.",
+            "description": "The Political-Legal Philosophy of Al-Farabi and the Modern Concept of the Just State"
+          },
+          {
+            "time": "Primkulova Zh.",
+            "description": "Reason, Strategy, and Virtue: Al-Farabi’s Philosophy Within the Framework of Game Theory"
+          },
+          {
+            "time": "Sarsembaev R.M., Abdullaev N.",
+            "description": "The Medieval Western Thinker Thomas Aquinas: Life and Creative Heritage"
+          },
+          {
+            "time": "Seitakhmetova N., Kasymqan Q.",
+            "description": "Sufi Worldview in Kazakhstan: Historical Foundations and Modern Trends"
+          },
+          {
+            "time": "Smutko A.",
+            "description": "The Idea of Civil Society in Al-Farabi’s Philosophy: From the Virtuous City to Modern Concepts"
+          },
+          {
+            "time": "Suleimenov P.M., Moldabek E.B.",
+            "description": "Abu Nasir Al-Farabi and Civilization: A Philosophical and Anthropological Analysis"
+          },
+          {
+            "time": "Umarova M.U.",
+            "description": "Al-Farabi’s «Views of the Inhabitants of a Virtuous City» as an Expression of Democratic Views"
+          },
+          {
+            "time": "Hamdamov I.",
+            "description": "Comparative Philosophical Analysis of Justice in the Political Views of Al-Farabi and Amir Timur"
+          },
+          {
+            "time": "Khinkov-Aitbayeva N.",
+            "description": "Al-Farabi’s Moral Politics in the Processes of Modernizing the Educational System of Kazakhstan"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "SECTION №3 \"Perfect Human\" and the Future: Possibilities of the Natural and Artificial",
+        "description": "April 9, 16.00 | Al-Farabi Scientific Library, First President Hall No. 303",
+        "moderators": ["Kurmanalieva Aynur Durbelinovna", "Ahmed Mohamed Attia Abdelhady"],
+        "secretary": ["Baltymova Mira Rashidovna"],
+        "timeline": [
+          {
+            "time": "Akimisheva Zh., Rakhmanova E.",
+            "description": "The Concept of \"Insan Kamil\" and the Issue of Spiritual Values in the Era of Artificial Intelligence"
+          },
+          {
+            "time": "Altayev Zh., Ungarova M.",
+            "description": "The Significance of Al-Farabi's Ethics in Modern Society"
+          },
+          {
+            "time": "Alimova M.",
+            "description": "The Contribution of Imam ad-Darimi to the Formation and Development of Medieval Hadith Studies"
+          },
+          {
+            "time": "Atash B., Tulenova S.",
+            "description": "Alternative Manifestations of the \"Virtuous City\" Utopia Based on Turkic-Kazakh Mythology Plots"
+          },
+          {
+            "time": "Abzhappar Zh.",
+            "description": "The Issue of Perfection in the Teachings of Al-Farabi"
+          },
+          {
+            "time": "Bagasharov K.",
+            "description": "The Concept of the Perfect Human and Educational Methods for Shaping Perfection"
+          },
+          {
+            "time": "Baibosunova G.",
+            "description": "Issues of Ethics and Self-Improvement in Al-Farabi's Philosophy and Their Manifestation in Modern Concepts"
+          },
+          {
+            "time": "Baltymova M.R., Yerkebulanuly R.",
+            "description": "The Arrival of Islam in the Kazakh Steppe and the Role of Sufi Institutions in This Process"
+          },
+          {
+            "time": "Begalinova A.",
+            "description": "“Insan Kamil” in the Era of Artificial Intelligence: Boundaries Between the Natural and the Artificial"
+          },
+          {
+            "time": "Borodovskaya L.Z.",
+            "description": "The Influence of al-Farabi’s Legacy on Medieval Sufi Culture"
+          },
+          {
+            "time": "Didikin A.",
+            "description": "The Interconnection Between Virtue Ethics and Scientific Knowledge in Al-Farabi's Philosophy"
+          },
+          {
+            "time": "Duisenbayev A., Baltymova M.",
+            "description": "Issues of Education and Upbringing in the Works of Al-Farabi"
+          },
+          {
+            "time": "Zholdubayeva A.K., Sherubaykyzy A.",
+            "description": "Gothic subculture as a space of “secondary being” of folk culture: the Kazakhstani context"
+          },
+          {
+            "time": "Zholmukhamedova N.Kh., Kalisheva N.Kh.",
+            "description": "The Perfect Human in the Philosophy of al-Farabi: Value Orientations for Modern Society"
+          },
+          {
+            "time": "Yeshpanova D.D.",
+            "description": "Education as a Factor in the Formation of Human Capital in Kazakhstan"
+          },
+          {
+            "time": "Yoldashev I., Khamdamova D.",
+            "description": "Spiritual-Moral Views in Al-Farabi’s Teachings and Their Promotion"
+          },
+          {
+            "time": "Karybaeva A.",
+            "description": "Socio-Psychological Foundations of Religious Destructivism in the Context of Deradicalization"
+          },
+          {
+            "time": "Konyrbayeva S., Cheng W.",
+            "description": "“The Perfect Human” in the Digital Age: Al-Farabi’s Ideal Personality Theory from the Perspective of Dance Education"
+          },
+          {
+            "time": "Koshaliyeva S.",
+            "description": "Al-Farabi’s Philosophy of Education: In the Context of Modern Technologies and AI"
+          },
+          {
+            "time": "Kosheleva A., Abduzhabbarova M.",
+            "description": "Intellectual and Aesthetic Education of the Individual in the Heritage of Abu Nasir al-Farabi"
+          },
+          {
+            "time": "Kulbasheva G.",
+            "description": "Eudaimonia in Al-Farabi’s Philosophy and Its Significance in the Concept of Happiness in the Digital Age"
+          },
+          {
+            "time": "Kylyshbayeva B., Ospanbek N.",
+            "description": "Burnout Syndrome in Social Work: Personal Experience and Practical Solutions"
+          },
+          {
+            "time": "Kudaibergenova N.",
+            "description": "Strategies for Self-Improvement of the Modern Individual: Al-Farabi and Chinese Philosophy"
+          },
+          {
+            "time": "Moltobarova K.",
+            "description": "Modern Significance of Al-Farabi's Principle of Understanding"
+          },
+          {
+            "time": "Mukan N., Shalkarova A.",
+            "description": "The process of missionary activity during the years of independence"
+          },
+          {
+            "time": "Nusipova G., Kiyekenova B.",
+            "description": "The Continuity of the Idea of Justice in Al-Farabi's Work with the Modern Era"
+          },
+          {
+            "time": "Nusupbaeva S., Mamytkanov D.",
+            "description": "The Role of the Mentor in Supporting Ethnic Repatriant Students based on Al-Farabi's ideas"
+          },
+          {
+            "time": "Orymbetov A., Kenzhakimova G.",
+            "description": "Dynamics of Value-Motivational Factors in the Structure of Professional Self-Determination of Youth in Kazakhstan"
+          },
+          {
+            "time": "Shedenova N.U., Zhakupov E.Zh.",
+            "description": "Conceptual Foundations of the Sociological Study of Neighborhood Communities in a Megacity"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "SECTION №4 Ethical Virtues in the Digital Society: Virtualization of the Concept of Happiness",
+        "description": "April 9, 14.00 | Al-Farabi Scientific Library, Conference Hall No. 408",
+        "moderators": ["Edilbayeva Saniya Zhakenkyzy", "Koshanova Nilyufar"],
+        "secretary": ["Balabekuly Doszhan"],
+        "timeline": [
+          {
+            "time": "Abdullayeva M.Z.",
+            "description": "The Eastern Ethical Code as a System of National Values"
+          },
+          {
+            "time": "Aimaganbetova O., Konysbay T.",
+            "description": "Emotional Well-being of Students Under Academic Stress: A Cross-Cultural Analysis"
+          },
+          {
+            "time": "Alikbayeva M., Zheksenbayeva M.",
+            "description": "Media Culture and Women"
+          },
+          {
+            "time": "Alshimbayeva A., Jing S.",
+            "description": "Inequalities in Educational Adaptation: Al-Farabi’s Concepts and Equality in the AI Era"
+          },
+          {
+            "time": "Amitov S., Artykbayeva G.",
+            "description": "The Concept of Shame in the Context of Al-Farabi’s Theory"
+          },
+          {
+            "time": "Aubakirova A., Mukhambetova K.A.",
+            "description": "Artificial Intelligence and Social Inequality in Working with Socially Vulnerable Groups"
+          },
+          {
+            "time": "Ashilova M.",
+            "description": "Al-Farabi and Modern Humanitarian Paradigms: A Dialogue Between Philosophy and Science"
+          },
+          {
+            "time": "Begalinova Q.",
+            "description": "Digital Reality and Morality: Transformation of Conceptions of Happiness"
+          },
+          {
+            "time": "Berdibayeva S., Dong Zh.",
+            "description": "Ethical Values and Psychological Well-being in the Digital Age: A Literature Review"
+          },
+          {
+            "time": "Bishmanov K., Zhetpisbay N.",
+            "description": "Factors of Youth Involvement in Destructive Religious Movements in Kazakhstan"
+          },
+          {
+            "time": "Borodovskaya L.Z.",
+            "description": "The Influence of al-Farabi's Legacy on the Sufi Culture of the Middle Ages"
+          },
+          {
+            "time": "Galeyeva R., Bolatov A., Kusainova R.",
+            "description": "The Image of a Modern Educator in the View of High School Students in the Digital Context"
+          },
+          {
+            "time": "Ertargynkyzy D., Zhang Y.",
+            "description": "Psychological Science in the Modern Era: Paradigms, Research, and Practice"
+          },
+          {
+            "time": "Zholdubayeva A.K.",
+            "description": "On the Issue of Methodology for Analyzing Visual Elements of the Tenge"
+          },
+          {
+            "time": "Ismagambetova Z., Kuderina A.",
+            "description": "Leisure in the Digital Age: Transformation in the Cultural Practices of Youth"
+          },
+          {
+            "time": "Kabakova M., Dong L., Li W.",
+            "description": "Fertility Intentions of University Students in China and Kazakhstan: A Psychological Analysis"
+          },
+          {
+            "time": "Karazhanov N., Shabdenova A.",
+            "description": "The Impact of Suburban Commuting on Family Relations and Leisure Structure"
+          },
+          {
+            "time": "Kachkynova A., Urumkulova N.",
+            "description": "Al-Farabi’s Philosophy: Challenges of Global Digital Civilization"
+          },
+          {
+            "time": "Kudaibergenova A., Akramova A., Shakirova A., Lyu A., Xu S., Bi T.",
+            "description": "Mechanisms of Emotional State Influence on Students' Academic Achievements (Al-Farabi Analysis)"
+          },
+          {
+            "time": "Kudaibergenova S., Zheniskyzy A.",
+            "description": "Coping Strategies of Law Enforcement Officers: Personal Resources and Professional Environment"
+          },
+          {
+            "time": "Kurmanaliyeva A., Turysbekova D.",
+            "description": "Ethical Virtues in a Digital Society: Modern Interpretations of Al-Farabi’s Concept of Happiness"
+          },
+          {
+            "time": "Lifanova T., Myrza E.",
+            "description": "Historical and Philosophical Foundations of Social Constructivism"
+          },
+          {
+            "time": "Madaliyeva Z.B., Akhmetov K.",
+            "description": "Digital Empathy as an Ethical Basis for Constructive Interaction in a Digital Society"
+          },
+          {
+            "time": "Mukasheva A., Han S.",
+            "description": "Human-Led, AI-Supported HTP Drawing Method in Counselor-Student Communication"
+          },
+          {
+            "time": "Nigmetova A., Kusherbayeva A.",
+            "description": "Cultural-Civilizational Duality of Turkiye: A Dialogue Between Turkic and European Values"
+          },
+          {
+            "time": "Niu Minjing, Shakirova А.",
+            "description": "Farabi's educational heritage: integration path of rational thinking and artificial intelligence"
+          },
+          {
+            "time": "Nurmuratov S., Sabitov G.",
+            "description": "Hybrid Consciousness as a Dynamic Identity Formation"
+          },
+          {
+            "time": "Omirbekova A., Oralkul A.",
+            "description": "Cultural Industry and AI in the Context of Digital Capitalism"
+          },
+          {
+            "time": "Sadykova N., Minasipova A.",
+            "description": "Professional Deformation of Personality as a Factor Affecting the Health of University Faculty"
+          },
+          {
+            "time": "Suleimenov A.",
+            "description": "Philosophical Analysis of the Post-industrial and Digital Context of Values"
+          },
+          {
+            "time": "Utebayeva D., Alibayeva A.",
+            "description": "Trust Algorithm in a Digital Environment: Transformation of Religious Identity"
+          },
+          {
+            "time": "Shakirova A., Kong Z.",
+            "description": "Gender Asymmetry in the Professional Experience of Female Teachers in China and Kazakhstan"
+          },
+          {
+            "time": "Shedenova N., Zhakupov E.",
+            "description": "Conceptual Foundations of Sociological Research on Neighborhood Communities in a Megalopolis"
+          },
+          {
+            "time": "Khinkov-Aitbaeva N.B.",
+            "description": "Al-Farabi's Moral Policy in the Modernization of the Education System of Kazakhstan"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "SECTION №5 Digital Transformation of Al-Farabi's Scientific Heritage and Modern Technologies in Translation Activities",
+        "description": "April 9, 16.00 | Al-Farabi Scientific Library, Conference Hall No. 408",
+        "moderators": ["Kudaibergenova Nazgul Zhaniskyzy"],
+        "secretary": ["Zeinullin Raimbek Bakytzhanuly"],
+        "timeline": [
+          {
+            "time": "Adilova E., Zhanatova D.",
+            "description": "Psychological Aspects of Using Artificial Intelligence: A Literature Review"
+          },
+          {
+            "time": "Algozhayeva N., Suleimenova R.",
+            "description": "From Reason to Algorithm: Al-Farabi’s Pedagogical Heritage in the Context of Artificial Intelligence"
+          },
+          {
+            "time": "Alimbekova G., Bakytzhanova A.",
+            "description": "Al-Farabi’s Concept of the 'Virtuous City' and the Atlas of Opportunities: Towards a Sociology of Life Choices"
+          },
+          {
+            "time": "Baitenova N., Alimkhanova A.",
+            "description": "Transformation of Religious Authority in the Context of Digital Technologies"
+          },
+          {
+            "time": "Balabekuly D.",
+            "description": "Socio-Philosophical Analysis of the Phenomenon of Convergence in Media"
+          },
+          {
+            "time": "Baltymova M.",
+            "description": "Performance Peculiarities and Distribution Area of Kazakh Children's Folklore"
+          },
+          {
+            "time": "Borbasova Q.",
+            "description": "Inter-confessional Dialogue in the Digital Environment: The Role of AI in Religious and Cultural Harmony"
+          },
+          {
+            "time": "Boretskiy O.",
+            "description": "Intelligence, Thinking, and Reason: Artificial and Natural"
+          },
+          {
+            "time": "Imanbayeva Zh.",
+            "description": "On the Relativity of Constant and Virtual Realities in the Concept of N.A. Nosov"
+          },
+          {
+            "time": "Zhamashev A., Yeleussizbayeva N.",
+            "description": "The Revival of Kurbangali Khalidi’s Works in the Foreign Scientific Environment"
+          },
+          {
+            "time": "Zholdubayeva A., Kairanbay T.",
+            "description": "Felt Art and Its New Forms in Digital Culture"
+          },
+          {
+            "time": "Alshimbayeva A., Zhou Ch.",
+            "description": "Educational Development in Kazakhstan and Shanghai: Comparative Analysis in Al-Farabi's Context"
+          },
+          {
+            "time": "Kim A., Guan Zh., Tao W.",
+            "description": "Emotional Positions of Caregivers and Regulation of Children's Emotions in Co-care Situations"
+          },
+          {
+            "time": "Qoshqarbayev E.",
+            "description": "The Farabis from Otrar"
+          },
+          {
+            "time": "Kudaibergenova N., Akhmetova G.",
+            "description": "Current Issues in the Study of National Philosophy Under Conditions of Digitalization"
+          },
+          {
+            "time": "Meirbayev B., Sarsebayeva R.",
+            "description": "Digital Technologies and Religion: The Impact of Artificial Intelligence on Religious Practice"
+          },
+          {
+            "time": "Nurysheva G.",
+            "description": "Al-Farabi’s Philosophy of Language and the Philosophical Thesaurus of Kazakh Worldview Concepts"
+          },
+          {
+            "time": "Sagikyzy A., Orazbekova A.",
+            "description": "Man in the Information Society and New Forms of Alienation: A Critical Analysis"
+          },
+          {
+            "time": "Tokhtakhunov B., Altayev Zh.A.",
+            "description": "Al-Farabi and the Modern Era: Sociological Discourse in the Age of Globalization"
+          },
+          {
+            "time": "Utebayeva D.S.",
+            "description": "Teaching Religious Studies in the Age of Artificial Intelligence: From Media Theory to Practice"
+          },
+          {
+            "time": "Shabdenova A., Satybayeva A.",
+            "description": "Analysis of the Development of the State Language in Kazakhstani Society (Bilingualism Trend)"
           }
         ]
       }
@@ -234,71 +1236,71 @@
     "sections": [
       {
         "id": 1,
-        "name": "International Scientific Conference on the topic \"TRANSLATION AS A PHENOMENON OF CIVILIZATION: BASED ON THE HERITAGE OF AL-FARABI AND TURKIC SCHOLARS\"",
-        "description": "April 2, Conference Hall named after Absattar Derbisali",
+        "name": "International Scientific and Practical Conference: «The Heritage of Al-Farabi and Global Civilization: the unity of Philosophy, Science, and Spirituality»",
+        "description": "April 9, Al-Farabi Scientific Library",
         "timeline": [
           {
-            "time": "14:00-14:15",
-            "description": "Welcome Address"
+            "time": "12:35-12:45",
+            "description": "Zhakypbek Altayev — Scientific Advisor of the Al-Farabi Center, Al-Farabi KazNU, Doctor of Philosophical Sciences, Professor. Topic: “The History of Farabi Studies in Kazakhstan”"
           },
           {
-            "time": "14:15-14:30",
-            "description": "Presentation 1: Translation in the Context of Civilization"
+            "time": "12:45-12:55",
+            "description": "Ashirbek Muminov — Advisor on International Relations at IRCICA, Doctor of Historical Sciences, Professor. Topic: “Manuscripts of Abu Nasr Al-Farabi’s Works in the Collections of the Republic of Turkey”"
           },
           {
-            "time": "14:30-14:45",
-            "description": "Presentation 2: The Legacy of Al-Farabi"
+            "time": "12:55-13:05",
+            "description": "Natalya Seitakhmetova — Chief Researcher at IPPSRS, Academician of the NAS RK, Doctor of Philosophical Sciences, Professor. Topic: “The Discourse of Intellect in Al-Farabi’s Teachings: Continuity of Ideas in the Era of Digitalization and AI”"
           },
           {
-            "time": "14:45-15:00",
-            "description": "Presentation 3: Turkic Scholars and Their Contributions"
+            "time": "13:05-13:15",
+            "description": "Mustafa Jalel Altynshash — Vice Dean of the Faculty of Theology at Istanbul University, PhD, Associate Professor. Topic: “Manuscripts of Abu Nasr al-Farabi in the collections of the Süleymaniye Library”"
           },
           {
-            "time": "15:00-15:15",
-            "description": "Discussion and Audience Questions"
+            "time": "13:15-13:25",
+            "description": "Askarbek Bekboev — Institute of Philosophy named after A.A. Altmyshbaev, Academician, Doctor of Philosophical Sciences. Topic: “Al-Farabi, Aitmatov, and AI: From the Philosophy of Mind to Algorithmic Rationality”"
           },
           {
-            "time": "15:15-15:30",
-            "description": "Presentation 4: Modern Aspects of Translation"
+            "time": "13:25-13:35",
+            "description": "Ali Rıza Gül — Doctor of Philosophical Sciences, Professor (Eskishehir, Turkey). Topic: “The Unity of Knowledge and Virtue in Al-Farabi: A Conceptual Analysis”"
           },
           {
-            "time": "15:30-15:45",
-            "description": "Closing Remarks and Summary"
+            "time": "13:35-13:45",
+            "description": "Closing of the plenary session. Commemorative photo"
+          },
+          {
+            "time": "13:45-14:30",
+            "description": "Break"
+          },
+          {
+            "time": "14:30-18:00",
+            "description": "Section Sessions. Conference Halls № 408, 409. Adoption of the Conference Resolution. Closing of the Conference"
           }
         ]
       },
       {
         "id": 2,
-        "name": "International Scientific Conference on the topic \"TRANSLATION AS A PHENOMENON OF CIVILIZATION: BASED ON THE HERITAGE OF AL-FARABI AND TURKIC SCHOLARS\"",
-        "description": "Section 2",
+        "name": "International Scientific and Practical Conference: «The Heritage of Al-Farabi and Global Civilization: the unity of Philosophy, Science, and Spirituality»",
+        "description": "SECTION SESSION",
         "timeline": [
           {
-            "time": "15:45-16:00",
-            "description": "Coffee Break and Informal Discussion"
+            "time": "Section №1",
+            "description": "The Scientific and Philosophical System of Al-Farabi and Contemporary Humanitarian Thought. April 9, 2:00 PM, Conference Hall №409"
           },
           {
-            "time": "16:00-16:15",
-            "description": "Presentation 5: Documentation and Translation Studies"
+            "time": "Section №2",
+            "description": "Al-Farabi's Political Philosophy in the Context of the Modern World: Power, Reason, and Justice. April 9, 2:00 PM, Conference Hall №303"
           },
           {
-            "time": "16:15-16:30",
-            "description": "Presentation 6: Philology and Textual Analysis"
+            "time": "Section №3",
+            "description": "\"Insan Kamil\" and the Future: Possibilities of the Natural and the Artificial. April 9, 4:00 PM, Conference Hall №303"
           },
           {
-            "time": "16:30-16:45",
-            "description": "Presentation 7: Scientific Innovations and Conclusions"
+            "time": "Section №4",
+            "description": "Ethical Virtues in a Digital Society: Virtualization of the Concept of Happiness. April 9, 2:00 PM, Conference Hall №408"
           },
           {
-            "time": "16:45-17:00",
-            "description": "Discussion and Exchange of Ideas"
-          },
-          {
-            "time": "17:00-17:15",
-            "description": "Presentation 8: Translation in the Turkic Tradition"
-          },
-          {
-            "time": "17:15-17:30",
-            "description": "Session Closing and Future Collaboration Plans"
+            "time": "Section №5",
+            "description": "Digital Transformation of Al-Farabi’s Scientific Heritage and Modern Technologies in Translation Services. April 9, 4:00 PM, Conference Hall №408"
           }
         ]
       }
@@ -306,36 +1308,32 @@
   },
 
   "mazhilis": {
-    "title": "MAZHILIS",
-    "date": "April 4, Al-Farabi Scientific Library, Conference room No. 409",
+    "title": "MEETING",
+    "date": "April 9 11:00, Al-Farabi Scientific Library, Conference room No. 409",
     "timeline": [
       {
-        "time": "14:00-14:15",
-        "description": "Mazhilis Opening"
+        "time": "Zhakypbek Altayev",
+        "description": "“The History of Farabi Studies in Kazakhstan”"
       },
       {
-        "time": "14:15-14:45",
-        "description": "Mazhilis Session 1: Al-Farabi in History and Culture"
+        "time": "Ashirbek Muminov",
+        "description": "“Manuscripts of Abu Nasr Al-Farabi’s Works in the Collections of the Republic of Turkey”"
       },
       {
-        "time": "14:45-15:15",
-        "description": "Mazhilis Session 2: Scientific Heritage and Contemporary Issues"
+        "time": "Natalya Seitakhmetova",
+        "description": "“The Discourse of Intellect in Al-Farabi’s Teachings: Continuity of Ideas in the Era of Digitalization and Artificial Intelligence”"
       },
       {
-        "time": "15:15-15:45",
-        "description": "Discussion and Participant Questions"
+        "time": "Mustafa Jalel Altynshash",
+        "description": "“Manuscripts of Abu Nasr al-Farabi in the collections of the Süleymaniye Library: Textological Characteristics and Source Studies Significance”"
       },
       {
-        "time": "15:45-16:00",
-        "description": "Coffee Break and Informal Discussions"
+        "time": "Askarbek Bekboev",
+        "description": "“Al-Farabi, Aitmatov, and AI: From the Philosophy of Mind to Algorithmic Rationality”"
       },
       {
-        "time": "16:00-16:45",
-        "description": "Mazhilis Session 3: Integration of Traditions"
-      },
-      {
-        "time": "16:45-17:00",
-        "description": "Mazhilis Closing and Final Remarks"
+        "time": "Ali Rıza Gül",
+        "description": "“The Unity of Knowledge and Virtue in Al-Farabi: A Conceptual Analysis within the Framework of Civilization”"
       }
     ]
   }

@@ -39,6 +39,16 @@ export function Conference1() {
                             {currentSection.description}
                         </h3>
                     )}
+                    {currentSection.moderators && (
+                        <h3 className="text-xl font-bold my-2 text-left">
+                            {t("common.moderators")} {currentSection.moderators.join(", ")}
+                        </h3>
+                    )}
+                    {currentSection.secretary && (
+                        <h3 className="text-xl font-bold my-2 text-left">
+                            {t("common.secretary")} {currentSection.secretary.join(", ")}
+                        </h3>
+                    )}
 
                     {/* Timeline */}
                     <div className="flex flex-col gap-1.5 mb-20">
