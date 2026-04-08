@@ -1,6 +1,6 @@
 import { useTranslation } from "../i18n";
 
-export function Header(props) {
+export function Header() {
     const { t } = useTranslation();
 
     return (
@@ -8,7 +8,7 @@ export function Header(props) {
             <a href="https://al-farabi.kaznu.kz/?lang=kz" target={"_blank"}>
                 <img
                     className={"h-14 min-w-11"}
-                    src={"https://www.gov.kz/uploads/2020/8/10/33043031d8404ab2d3ecc42c86370161_original.150458.png"}
+                    src={"/farabi-forum-website/farabi-logo.png"}
                     alt="Al-Farabi logo"
                 />
             </a>

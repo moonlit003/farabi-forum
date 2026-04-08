@@ -11,6 +11,8 @@ export function Conference1() {
 
     return (
         <div className="py-4 max-w-lg mx-auto">
+            <img src="/farabi-forum-website/banner-farabi.png" className="mb-6 w-full" />
+
             {/* Section Buttons - Centered at top */}
             <div className="flex flex-wrap justify-center gap-2 mb-6">
                 {conferenceData.sections.map((section: any) => (
