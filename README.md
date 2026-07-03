@@ -1,15 +1,8 @@
-# `create-preact`
+# Проект для Фараби Форума
 
-<h2 align="center">
-  <img height="256" width="256" src="./src/assets/preact.svg">
-</h2>
+Небольшое веб-приложение, разработанное для **Фараби Форума**. 
 
-<h3 align="center">Get started using Preact and Vite!</h3>
-
-## Getting Started
-
--   `npm run dev` - Starts a dev server at http://localhost:5173/
-
--   `npm run build` - Builds for production, emitting to `dist/`
-
--   `npm run preview` - Starts a server at http://localhost:4173/ to test production build locally
+### 🛠 Стек технологий
+* **Preact** + **Vite** — легковесная и максимально быстрая альтернатива стандартному React. Обеспечивает мгновенный запуск сборщика и высокую производительность интерфейса.
+* **Tailwind CSS** — утилитарный фреймворк для быстрой, чистой и полностью адаптивной верстки под любые экраны.
+* **Lucide (lucide-preact)** — современный пак минималистичных и консистентных векторных иконок.
